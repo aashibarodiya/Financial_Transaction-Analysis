@@ -2,7 +2,7 @@
 Capstone Project using EXCEL for Financial Data Analysis
 
 # Financial Transactions Analysis (Capstone Project)
-[Dashboard(https://github.com/aashibarodiya/Financial_Transaction-Analysis/commit/97ed4dce809598146e21e7f403f3667778bb1a48)]
+[Dashboard_PNG: (https://github.com/aashibarodiya/Financial_Transaction-Analysis/commit/97ed4dce809598146e21e7f403f3667778bb1a48)]
 ## 📌 Objective
 To analyze financial transaction data using Excel and derive meaningful insights.
 
